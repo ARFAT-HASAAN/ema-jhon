@@ -1,0 +1,13 @@
+.product-container{display: grid;
+                    grid-template-columns: 3fr 1fr;}
+
+.count-container{border-left: 1px solid lightblue;
+                 margin: 5px;
+                 padding:5px;}
+.search-field{
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1rem;
+    
+}

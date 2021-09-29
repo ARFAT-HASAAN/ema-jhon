@@ -1,0 +1,17 @@
+.Header{
+     text-align: center;
+}
+.logo{
+    width: 400px;
+}
+.Header nav{background-color: rgb(245, 192, 20);
+            }
+.Header nav a{text-decoration: none;
+              font-size: 2rem;
+              padding-right: 20px;
+              color: white;
+              margin-right: 20px;
+              }
+
+.Header nav a:hover{background-color: black;
+                    color: white;}

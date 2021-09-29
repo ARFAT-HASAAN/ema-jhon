@@ -1,0 +1,25 @@
+.item-container{
+    display: flex; 
+    margin: 5px;
+    
+    border-bottom: 1px solid lightblue;
+}
+
+.prouduct-img{width: 250px;}
+.head{
+    color: blue;
+}
+.btn{background-color: rgb(245, 198, 43);
+padding: 7px;
+border-radius: 5px;
+text-align: center;
+cursor: pointer;
+font-size: 1.5rem;
+width: 220px;
+border: 1px solid gray;
+margin: 10px 0px;}
+
+
+.icon-color{
+    color: rgba(99, 43, 204, 0.972);
+}
